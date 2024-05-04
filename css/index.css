@@ -155,3 +155,38 @@ body {
     margin-top: 7rem;
   }
 }
+
+.navbar-brand {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.39);
+  font-size: 50px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.carousel-caption p {
+  font-size: 24px;
+}
+
+.featurette-heading {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lead {
+  font-size: 30px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
